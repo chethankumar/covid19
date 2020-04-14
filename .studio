@@ -1,0 +1,20 @@
+{
+  "server": {
+    "mfpUrl": "http://127.0.0.1:9080",
+    "serverName": "MobileFoundation",
+    "confidentialServerUrl": "/mfp/api/az/v1/token"
+  },
+  "type": "reactnative",
+  "platforms": [
+    "ios"
+  ],
+  "isAppAuth": false,
+  "isEncrypt": false,
+  "projectIcon": "/Users/chethankumar/projects/videos/devworks-1/covid19/reactnative/covid19/resources/icon.png",
+  "projectName": "covid19",
+  "projectVersion": "1.0",
+  "projectBundleId": "com.covid",
+  "isAnalyticsEnabled": true,
+  "isLiveUpdateEnabled": false,
+  "projectMode": "code"
+}

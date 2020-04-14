@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plist version="1.0">
+  <dict>
+    <key>protocol</key>
+    <string>http</string>
+    <key>host</key>
+    <string>127.0.0.1</string>
+    <key>port</key>
+    <string>9080</string>
+    <key>wlServerContext</key>
+    <string>/mfp/</string>
+    <key>languagePreferences</key>
+    <string>en</string>
+  </dict>
+</plist>
